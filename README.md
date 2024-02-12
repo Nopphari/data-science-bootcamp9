@@ -4,7 +4,7 @@ I'm learning data science bootcamp. There are 10 sprints in the program.
 
 ## First part of the program
 
-- Intro to data sicence
+- Intro to data science
 - Spreadsheets
 - SQL databases
 - R programing
@@ -14,10 +14,10 @@ I'm learning data science bootcamp. There are 10 sprints in the program.
  ## Second part of the program
 
  - Building website portfolio
- - Essentail Statistics
+ - Essential Statistics
  - Machine Learning for Data analyst
  - Python programing
- - Essentail Python for Data analyst
+ - Essential Python for Data analyst
  - Dashboard with Looker studio
 
 Contect: doctor.aoteza@gmail.com
